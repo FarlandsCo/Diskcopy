@@ -1,3 +1,2 @@
 print("Starting")
-shell.run("rm dis*/*")
 shell.run("copy files/* dis*/")
